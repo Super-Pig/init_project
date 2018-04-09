@@ -1,0 +1,19 @@
+{
+  "name": "init_project",
+  "version": "1.0.0",
+  "description": "hello garry hi nothin haha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Super-Pig/init_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Super-Pig/init_project/issues"
+  },
+  "homepage": "https://github.com/Super-Pig/init_project#readme"
+}
