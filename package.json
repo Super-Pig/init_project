@@ -4,7 +4,7 @@
   "description": "hello garry hi nothin haha",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Super-Pig/init_project/issues"
   },
-  "homepage": "https://github.com/Super-Pig/init_project#readme"
+  "homepage": "https://github.com/Super-Pig/init_project#readme",
+  "devDependencies": {
+    "mocha": "^5.0.5"
+  }
 }
